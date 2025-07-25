@@ -1,0 +1,4 @@
+transitions
+loguru
+customtkinter
+pyserial
